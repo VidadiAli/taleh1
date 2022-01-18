@@ -149,7 +149,7 @@
    -o-transform: scale(1);
 }
 .email{
-    background-image: url('/IMAGE/martin-shreder-5Xwaj9gaR0g-unsplash.jpg');
+    background-image: url('IMAGE/martin-shreder-5Xwaj9gaR0g-unsplash.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
